@@ -27,19 +27,16 @@
 
 ## 🧰 Tecnologias
 
-
-## 🧰 Tecnologias
-
 ### Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
 </p>
 
 ### Backend e banco de dados
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,sqlite" alt="Node.js e SQLite" />
+  <img src="https://skillicons.dev/icons?i=nodejs,sqlite" alt="Node.js e SQLite" />
 </p>
 
 ### Ferramentas
