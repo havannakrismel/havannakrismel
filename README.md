@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="assets/banner.svg" alt="Banner do portfólio" width="100%" />
+</p>
+
 <div align="center">
 
 # Olá! Seja bem-vindo(a) 👋
