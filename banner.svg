@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Minimal developer portfolio banner</title>
+  <desc id="desc">Soft lavender banner with geometric shapes and space for a developer name.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F8F6FC"/>
+      <stop offset="100%" stop-color="#EDE6F8"/>
+    </linearGradient>
+    <linearGradient id="shape" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#C9B4E8"/>
+      <stop offset="100%" stop-color="#A78BD4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="26" fill="url(#bg)"/>
+  <circle cx="1030" cy="70" r="120" fill="#E2D5F3" opacity=".75"/>
+  <circle cx="1100" cy="245" r="92" fill="#D6C5EE" opacity=".65"/>
+  <path d="M900 35 L1065 130 L965 245 L800 150 Z" fill="url(#shape)" opacity=".78"/>
+  <path d="M1015 95 L1115 153 L1055 223 L955 165 Z" fill="#F8F6FC" opacity=".9"/>
+  <circle cx="850" cy="230" r="8" fill="#8C6BB8"/>
+  <circle cx="885" cy="230" r="8" fill="#B49AD9"/>
+  <circle cx="920" cy="230" r="8" fill="#D0BEEA"/>
+  <path d="M70 52 H160" stroke="#B49AD9" stroke-width="4" stroke-linecap="round"/>
+  <text x="70" y="130" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" letter-spacing="4" fill="#755A9D">PORTFÓLIO • TECNOLOGIA</text>
+  <text x="70" y="190" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="46" font-weight="700" fill="#24202B">Construindo soluções</text>
+  <text x="70" y="235" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" fill="#5F566B">Desenvolvimento de sistemas · TI</text>
+</svg>
