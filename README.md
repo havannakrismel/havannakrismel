@@ -33,7 +33,7 @@
 - Git e GitHub
 
 **Estudando**
-- [Adicione uma tecnologia que esteja aprendendo]
+- Engenharia da Computação.
 
 ## 🚀 Projetos em destaque
 
