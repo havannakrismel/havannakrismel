@@ -27,7 +27,27 @@
 
 ## 🧰 Tecnologias
 
-> Adicione abaixo as tecnologias que você realmente utiliza ou está estudando.
+
+## 🧰 Tecnologias
+
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind" alt="TypeScript" />
+</p>
+
+### Backend e banco de dados
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,sqlite" alt="Node.js e SQLite" />
+</p>
+
+### Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub e Visual Studio Code" />
+</p>
+.
 
 **Conhecimentos**
 - Git e GitHub
